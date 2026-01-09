@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+
+tensorflow==2.16.1
+numpy==1.26.4
+
+pydub==0.25.1
+python-multipart==0.0.6
+
+librosa==0.10.1
+numba==0.59.1
+llvmlite==0.42.0
+
+matplotlib==3.7.0
+scipy==1.11.4
+Pillow==10.0.0
